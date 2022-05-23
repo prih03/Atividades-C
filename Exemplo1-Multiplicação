@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main()
+{
+    printf
+ int n1;
+ int n2;
+ int m;
+ printf("informe o primeiro numero a ser multiplicado");
+ scanf("%d",&n1);
+
+ printf("informe o segundo numero a ser multiplicado");
+ scanf("%d",&n2);
+    
+    m= n1 * n2;
+    
+ printf(" o resultado da operação é %d",m);
+    
+    return 0;
+}
